@@ -1,0 +1,22 @@
+# Secret environment variables
+.env
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Local application data
+study_notes.json
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
